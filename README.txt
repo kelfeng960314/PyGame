@@ -1,7 +1,3 @@
-------------------------------------
-| Group | C&C- Currywurst & Chorizo |
-| Name  | Tower Defense             |
-------------------------------------
 
 
 We developed a tower-defense game as our final group project for Programming (COMP 4008) course in the University of Nottingham.
